@@ -1,0 +1,16 @@
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bin\Debug\ReverseMap\resources.pri
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bin\Debug\AppxManifest.xml
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bin\Debug\homeFeeds.build.appxrecipe
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\ResourceHandlingTask.state
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\priconfig.xml
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\priconfig.xml.intermediate
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\layout.resfiles
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\layout.resfiles.intermediate
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\resources.resfiles
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\resources.resfiles.intermediate
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\pri.resfiles
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\pri.resfiles.intermediate
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\qualifiers.txt
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\ProjectArchitectures.txt

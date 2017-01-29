@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-KVJAJBG</Machine>
+    <WindowsUser>Brian Gunawan</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>31ad9676-d861-47b1-aa07-431f548c041f</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Brian Gunawan</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>6A970C63DEF18E8A898E2F7AFD5666BEA1526F2561309803BCBE5730DF5568AD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>31ad9676-d861-47b1-aa07-431f548c041f_1.0.0.0_neutral__22xepbqaxnatr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>31ad9676-d861-47b1-aa07-431f548c041f_22xepbqaxnatr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>31ad9676-d861-47b1-aa07-431f548c041f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Brian Gunawan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-01-29T11:39:40.799</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\css\bootstrap.css">
+      <PackagePath>css\bootstrap.css</PackagePath>
+      <Modified>2017-01-29T11:39:10.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-01-29T08:04:03.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-07-11T18:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-07-11T18:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-01-29T12:02:49.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T17:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T17:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T17:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T17:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T17:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T17:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T17:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2017-01-29T12:02:20.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\js\pusher-platform.js">
+      <PackagePath>js\pusher-platform.js</PackagePath>
+      <Modified>2017-01-29T07:03:55.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-07-11T18:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-07-11T18:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2016-07-11T18:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Brian Gunawan\homeFeeds\homeFeeds\homeFeeds\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-01-29T11:39:40.460</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
